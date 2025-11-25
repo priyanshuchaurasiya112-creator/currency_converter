@@ -50,3 +50,4 @@ array is used to store all the exchange rates, and the program uses simple index
  -Add a GUI using Tkinter
  -Add more currencies
 
+
